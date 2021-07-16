@@ -26,7 +26,7 @@ Fique à vontade para entrar em contato comigo por e-mail ou se conectar comigo 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/odaniloborges/)](https://www.linkedin.com/in/odaniloborges/)
 
 <!--
- is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ IT's very ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
