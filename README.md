@@ -10,12 +10,13 @@ Atualmente estou focado em cursos de desenvolvimento em front-end e finalizando 
 📍   Biguaçu - SC <br>
 
 ## Tecnologias que possuo conhecimento 🛠
-  
-![HTML5](https://img.shields.io/badge/HTML-F06529?style=for-the-badge&logo=HTML5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-2D9CDB?style=for-the-badge&logo=CSS3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-32363E?style=for-the-badge&logo=react&logoColor=61DAFB)
-![UX](https://img.shields.io/badge/-UX-orange?style=for-the-badge&Color=61DAFB)
+<div style="display: inline_block"><br>  
+<img align="center" alt="Dan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+<img align="center" alt="Rafa-React" height="30" width="40" src="https://img.shields.io/badge/-UX-orange?style=for-the-badge&Color=61DAFB">
+</div>
 
 
 ## Onde me encontrar 👇🏼
