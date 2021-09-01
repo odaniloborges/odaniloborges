@@ -9,6 +9,7 @@ Atualmente estou focado em cursos de desenvolvimento em front-end e finalizando 
 🔎 Procurando novas oportunidades <br>
 📍   Biguaçu - SC <br>
 
+
 ## Tecnologias que possuo conhecimento 🛠
 <div style="display: inline_block"><br>  
 <img align="center" alt="Dan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -27,6 +28,13 @@ Fique à vontade para entrar em contato comigo por e-mail ou se conectar comigo 
   
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:daniloborges.dev@gmail.com)](mailto:daniloborges.dev@gmail.com/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/odaniloborges/)](https://www.linkedin.com/in/odaniloborges/)
+
+
+<h2>My Github main tools</h2>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=odaniloborges&hide=tex&layout=compact&theme=dark&repo=github-readme-stats" />
+</a>
 
 <!--
  IT's very ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
