@@ -2,7 +2,7 @@
 
 <img src="https://media.giphy.com/media/iIGT8Y1rOYhBpdHh1C/giphy.gif" width="300px" align="right">
 
-Me chamo Danilo, Sou programador front-end e tenho experiência como consultor de projetos e implantações, sou apaixonado por desenvolver soluções através da programação! 💜
+Me chamo Danilo, Sou programador front-end e tenho experiência como consultor de projetos e implantações, sou apaixonado por desenvolver soluções e quero levar isso através da programação! 💜
   
 Atualmente estou focado em cursos de desenvolvimento em front-end e finalizando minha gradução em Gestão de Técnologia da informação, Estou buscando aprimorar meu conhecimento em Front-end e buscando ser um ótimo profissional em T, juntando meus conhecimentos para uma melhor aplicação! 🚀
 <br><br>
