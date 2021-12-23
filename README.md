@@ -8,6 +8,7 @@ Atualmente estou focado em cursos de desenvolvimento em front-end e finalizando 
 <br><br>
 🔎 Procurando novas oportunidades <br>
 📍   Biguaçu - SC <br>
+📍   São Paulo/Sp - Biguaçu/Sc <br>
 
 
 ## Tecnologias que possuo conhecimento 🛠
