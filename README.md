@@ -34,7 +34,7 @@ Fique à vontade para entrar em contato comigo por e-mail ou se conectar comigo 
 <h2>My Github main tools</h2>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=odaniloborges&hide=tex&layout=compact&theme=dark&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=odaniloborges&hide=tex&card_width=500&layout=compact&theme=dark&repo=github-readme-stats" />
 </a>
 
 <!--
