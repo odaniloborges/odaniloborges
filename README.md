@@ -7,34 +7,21 @@ Atualmente estou focado em cursos de desenvolvimento em front-end e finalizando 
 
 
 ## Tecnologias (Tech Stacks & Tools) 🛠
-<div style="display: inline_block">
-<h4>Frontend e UI</h4>
-<img align="center" alt="Dan-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-<img align="center" alt="Dan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img align="center" alt="Dan-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
-</div>
+### Frontend e UI
+![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
+![Vue](https://img.shields.io/badge/-Vue.js-000000?style=flat&logo=vue.js)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
+![Sass](https://img.shields.io/badge/-Sass-000000?style=flat&logo=sass)
 
-<h4>Frontend e UI</h4>
-<div style="display: inline_block"><br>  
-<img align="center" alt="Dan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img align="center" alt="Dan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img align="center" alt="Dan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img align="center" alt="Dan-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-<img align="center" alt="Dan-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
-<img align="center" alt="Dan-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg">
-<img align="center" alt="Dan-UX" height="30" width="40" src="https://img.shields.io/badge/-UX-orange?style=for-the-badge&Color=61DAFB">
-</div>
+#### Backend & Data
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=django)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql)
 
-<h4>Frontend e UI</h4>
-<div style="display: inline_block"><br>  
-<img align="center" alt="Dan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img align="center" alt="Dan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img align="center" alt="Dan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img align="center" alt="Dan-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-<img align="center" alt="Dan-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
-<img align="center" alt="Dan-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg">
-<img align="center" alt="Dan-UX" height="30" width="40" src="https://img.shields.io/badge/-UX-orange?style=for-the-badge&Color=61DAFB">
-</div>
+#### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-000000?style=flat&logo=amazon-aws&logoColor=white&v=2)
+![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
+![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker)
 
 
 ## Onde me encontrar 👇🏼
