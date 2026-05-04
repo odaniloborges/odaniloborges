@@ -14,12 +14,12 @@ Atualmente estou focado em cursos de desenvolvimento em front-end e finalizando 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
 ![Sass](https://img.shields.io/badge/-Sass-000000?style=flat&logo=sass)
 
-#### Backend & Data
+### Backend & Data
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js)
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql)
 
-#### Cloud & DevOps
+### Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-000000?style=flat&logo=amazon-aws&logoColor=white&v=2)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
 ![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker)
